@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/ZeroneDoo/zeronewatch-api">
+  <a href="https://github.com/senna-js/zeronewatch-api">
 <!--     <img src="https://media.tenor.com/3S9l9HzhGVcAAAAC/shake-kaninayuta.gif" alt="Logo" width="200" height="200"> -->
   </a>
 
@@ -26,7 +26,7 @@
 Run this command for install the project
 
 ```sh
-git clone https://github.com/ZeroneDoo/zeronewatch-api.git
+git clone https://github.com/senna-js/zeronewatch-api.git
 cd zeronewatch-api
 npm install
 ```
@@ -85,7 +85,7 @@ There is some source at zeronewatch api
       /drakorkita/series/ongoing?page=1
       ```
       default page is 1
-      example: http://localhost:3000/drakorkita/drakorkita/series/ongoing
+      example: http://localhost:3000/drakorkita/series/ongoing
       
     - #### Series Updated
 
@@ -94,7 +94,7 @@ There is some source at zeronewatch api
       ```bash
       /drakorkita/series/updated
       ```
-      example: http://localhost:3000/drakorkita/drakorkita/series/updated
+      example: http://localhost:3000/drakorkita/series/updated
       
     - #### Series Completed
 
@@ -104,7 +104,7 @@ There is some source at zeronewatch api
       /drakorkita/series/completed?page=1
       ```
       default page is 1
-      example: http://localhost:3000/drakorkita/drakorkita/series/completed
+      example: http://localhost:3000/drakorkita/series/completed
       
     - #### Detail Series/Movie
 
@@ -113,7 +113,7 @@ There is some source at zeronewatch api
       ```bash
       /drakorkita/detail/:endpoint
       ```
-      example: http://localhost:3000/drakorkita/drakorkita/detail/revenant-2023-u9p7
+      example: http://localhost:3000/drakorkita/detail/revenant-2023-u9p7
           
     - #### Genre List
 
