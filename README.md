@@ -6,7 +6,7 @@
   <h3 align="center">Zeronewatch API</h3>
 
   <p align="center">
-    <b>Restful API Komik, Drakor & Anime Subtitle Indonesia</b><br />
+    <b>Restful API Drakor Subtitle Indonesia</b><br />
     <span>I make this API for learning</span>
     <br />
 </p>
